@@ -1,0 +1,73 @@
+body{
+	margin:0px;
+	padding:0px;
+	background-color:#77d;
+	text-align:center;
+}
+#content{
+	background-color:#fff;
+	width:75%;
+	text-align:center;
+	margin:0 auto;
+}
+#header{
+	width:100%;
+	margin:0px;
+	font-size:40px;
+}
+#imgbanner{
+	width:768px;
+	
+}
+#menu{
+	margin:0px;
+	padding:0px;
+	background-color:#99e;
+	border-radius:20px;
+}
+#lismenu{
+	padding:0px;
+	margin:0px;
+}
+#lismenu li{
+	margin:0px;
+	font-size:20px;
+	display:inline;
+}
+.noticia{
+	width:100%;
+}
+img{
+	width:100%;
+	
+}
+#middle{
+	padding:20px 50x;
+	height:1600px;
+}
+.promocao{
+	width:100%;
+	
+}
+#noticias{
+	width:25%;
+	float:left;
+	margin-left:4%;
+}
+#promocoes{
+	width:66%;
+	margin-right:4%;
+	float:left;
+}
+#form{
+	margin:50px auto;
+	border:1px solid black;
+	text-align:left;
+	width:250px;
+	padding:10px;
+}
+a{
+	color:#000;
+	text-decoration:none;
+	
+}
